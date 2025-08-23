@@ -5,9 +5,8 @@ This is a simplified version of the full Starter Kit. It's designed to show the 
 ## ✨ What's Included (Demo)
 
 - 🟢 Simple Spring Boot app with 1 working endpoint
-- 🟢 Infrastructure-as-Code (Terraform): Lambda, API Gateway, DynamoDB
+- 🟢 Infrastructure-as-Code (Terraform): Lambda, API Gateway
 - 🟢 1-click deploy script (`deploy.sh`)
-- 🟢 Local development support via Maven
 
 ## 🚫 Not Included (Demo Limitation)
 
