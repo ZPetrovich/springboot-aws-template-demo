@@ -14,11 +14,11 @@ This is a simplified version of the full Starter Kit. It's designed to show the 
   </video>
 </p>
 
-[![Watch the video](https://github.com/user-attachments/assets/21869ac4-4f96-4e7f-8814-09d5ffc1831e)]([https://youtu.be/VIDEO_ID](https://www.youtube.com/watch?v=agKj_un5PZg))
+[!Watch the video](https://www.youtube.com/watch?v=agKj_un5PZg)
+
 ## 🚀 Quick Start
 
 ### Prerequisites
-<img width="1419" height="753" alt="RedditImage" src="" />
 
 - **Java 17+** and **Maven 3.8+**
 - **[AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)** configured with deployment permissions
