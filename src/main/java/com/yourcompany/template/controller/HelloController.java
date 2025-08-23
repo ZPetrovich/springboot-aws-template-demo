@@ -1,5 +1,5 @@
 
-package com.example.demo.controller;
+package com.yourcompany.template.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
