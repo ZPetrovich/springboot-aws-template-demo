@@ -14,8 +14,10 @@ This is a simplified version of the full Starter Kit. It's designed to show the 
 - Ensure the default configuration values in the .env file meet your requirements
 
 ```bash
-
-git push origin main
+git clone https://github.com/ZPetrovich/springboot-aws-template-demo
+cd springboot-aws-template-demo
+chmod a+x deploy.sh
+./deploy.sh
 ```
 
 ## ✨ What's Included (Demo)
