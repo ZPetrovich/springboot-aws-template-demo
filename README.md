@@ -2,9 +2,23 @@
 
 This is a simplified version of the full Starter Kit. It's designed to show the overall structure and Terraform-based deployment — with minimal code and 1 working endpoint.
 
+<p align="center">
+  <video
+    src="https://github.com/user-attachments/assets/3c2aab5a-700d-4d05-85d2-d0ef06a2cc6a"
+    controls
+    playsinline
+    muted
+    width="720">
+    Your browser doesn’t support embedded videos.
+    <a href="https://github.com/user-attachments/assets/3c2aab5a-700d-4d05-85d2-d0ef06a2cc6a">Download video</a>.
+  </video>
+</p>
+
+[![Watch the video](https://github.com/user-attachments/assets/21869ac4-4f96-4e7f-8814-09d5ffc1831e)]([https://youtu.be/VIDEO_ID](https://www.youtube.com/watch?v=agKj_un5PZg))
 ## 🚀 Quick Start
 
 ### Prerequisites
+<img width="1419" height="753" alt="RedditImage" src="" />
 
 - **Java 17+** and **Maven 3.8+**
 - **[AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)** configured with deployment permissions
