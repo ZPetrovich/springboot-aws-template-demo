@@ -40,7 +40,9 @@ chmod a+x deploy.sh
 
 Once deployed, test the endpoint in your Browser:
 
+```bash
 https://<YOUR_AWS_GATEWAY_ID>.execute-api.<YOUR_AWS_REGION>.amazonaws.com/prod/api/items/YOUR_KEYWORD
+```
 
 ## ✨ What's Included (Demo)
 
