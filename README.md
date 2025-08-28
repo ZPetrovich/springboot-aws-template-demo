@@ -59,9 +59,6 @@ https://<YOUR_AWS_GATEWAY_ID>.execute-api.<YOUR_AWS_REGION>.amazonaws.com/prod/a
 - 🧰 Production-ready deployment structure
 
 ---
-
-Full production setup
-
 📌 This project is for learning purposes.
 It’s intentionally kept small and focused so you can understand how AWS Lambda + API Gateway + Java work together.
 
